@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Austin's Personal Site</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <table cellspacing ="10px">
+    <tr>
+      <td>
+        <img src="https://scontent.flos1-1.fna.fbcdn.net/v/t1.6435-9/102871810_1625735214258212_8905283434517898689_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH9_EzQYATzC4xA7AZnTmhLdBkcHvEqY0h0GRwe8SpjSD-ssuFMNxPlAJ7v5K0mOZjfANk9T9PvGEmLfw9UDWSB&_nc_ohc=TcXkAbF57QwAX8mtBvu&tn=YEULEU1zZLNIOWG8&_nc_ht=scontent.flos1-1.fna&oh=00_AT_c6IqNg5CaBNHx0bKm8aEXtVJ-fac7bzn2ruG2dNy__A&oe=629422EC" width="200" height="200" alt="picture of Austin amadi"/>
+      </td>
+      <td>
+        <td>
+        <h1>Austin Amadi</h1>
+      </p>Founder and <strong><a href="http://a2mall.shop/">CEO of A2mall.shop </strong><a/></p>
+        <p> I am a Web developer, Animator, Graphic designer, Digital Marketing Expert and a Blockchain enthusiast.
+        </td>
+    </tr>
+</table cellspacing="10">
+
+    <hr>
+    <h3><strong>Education</strong></h3>
+      <ul>
+        <li>2017 - 2021  National Open University      (Computer Science) </li>
+        <li>2009 - 2012  Federal Polytechnic Nekede    (Surveying and Geoinformatics) </li>
+        <li>2003 - 2008  Community High Scholl Emekuku (SSCE)</li>
+        <li>1997 - 2003  ExpressWay Primary School     (FSLC)</li>
+        </li>
+      </ul>
+      <h3>Other Certifications</h3>
+      <ul>
+        <li>
+          Certificate of Completion Internet Security
+        </li>
+        <li>
+          Certificate of Completion Blockchain for Business
+        </li>
+        <li>
+          Certificate of Completion Web Development Bootcamp
+        </li>
+      </ul>
+
+    <hr>
+    <h3> Work Experience </h3>
+    <table cellspacing="10">
+      <thead><em>
+        <tr>
+          <td>
+            Year
+          </td>
+          <td>
+            Work
+          </td>
+        </tr>
+      </thead></em>
+      <tr>
+        <td>
+          2012 - 2015
+        </td>
+        <td>
+        Marketing Assstant
+        </td>
+      </tr>
+         <tr>
+           <td>
+             2015 - 2017
+           </td>
+           <td>
+             Marketing Head
+           </td>
+         </tr>
+         <tr>
+           <td>
+             2017 - 2018
+           </td>
+           <td>
+             Marketing Officer
+           </td>
+         </tr>
+         <tr>
+           <td>
+             2018 - 2019
+           </td>
+           <td>
+            Probee ED2E Marketing Head
+           </td>
+         </tr>
+         <tr>
+           <td>
+             2019 - 2020
+           </td>
+           <td>
+            Creative Designer
+           </td>
+         </tr>
+         <tr>
+           <td>
+             2020 - 2021
+           </td>
+           <td>
+            Head of Marketing and Communications
+           </td>
+         </tr>
+    </table>
+    <hr>
+      <h3> Skills</h3>
+      <table cellboarder = "10">
+        <tr>
+          <td>
+          Hosting
+          </td>
+          <td>
+            ⭐⭐⭐
+          </td>
+            <td>
+              Good Communications
+            </td>
+            <td>
+              ⭐⭐⭐⭐
+            </td>
+          </tr>
+
+        </tr>
+        <tr>
+          <td>
+          Community Management
+          </td>
+          <td>
+            ⭐⭐⭐⭐
+          </td>
+            <td>
+              Event Planning
+            </td>
+            <td>
+              ⭐⭐⭐⭐
+            </td>
+          </tr>
+
+      </table>
+<hr>
+
+   <h3> Hobbies </h3>
+      <li>Football</li>
+      <li>Reading</li>
+      <li>Cooking</li>
+    </ol>
+<a href="contact me.html"> My Contact <a/>
+
+  </body>
+</html>
